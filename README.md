@@ -133,8 +133,7 @@ The project compares **Pune and Nashik rental markets** to highlight pricing dif
 📊 Aspiring Data Analyst / Data Scientist  
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/milind-bagad-82786a224  
-🔗 **GitHub:** https://github.com/Milind5  
-
+🔗 **GitHub:** https://github.com/milindbagad7
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
